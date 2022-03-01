@@ -1,0 +1,26 @@
+{
+	"name": "jest",
+	"version": "1.0.0",
+	"description": "jest begin",
+	"main": "sum.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Scream199109/Jest.git"
+	},
+	"keywords": [
+		"js",
+		"javascript",
+		"jest",
+		"unit",
+		"testing"
+	],
+	"author": "scream199109@mail.ru",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Scream199109/Jest/issues"
+	},
+	"homepage": "https://github.com/Scream199109/Jest#readme"
+}
